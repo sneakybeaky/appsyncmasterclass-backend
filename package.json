@@ -1,0 +1,25 @@
+{
+  "name": "appsyncmasterclass-backend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Yan Cui's Appsync Masterclass",
+  "main": "index.js",
+  "scripts": {
+    "sls": "sls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneakybeaky/appsyncmasterclass-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sneakybeaky/appsyncmasterclass-backend/issues"
+  },
+  "homepage": "https://github.com/sneakybeaky/appsyncmasterclass-backend#readme",
+  "devDependencies": {
+    "serverless": "^3.21.0",
+    "serverless-appsync-plugin": "^1.14.0"
+  }
+}
